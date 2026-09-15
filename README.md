@@ -4,3 +4,5 @@ Without your consent most major web platforms leak whether you are logged in. Th
 
 ## [Demo](https://robinlinus.github.io/socialmedia-leak/)
 [Click here to see the demo](https://robinlinus.github.io/socialmedia-leak/)
+
+This is a project by the creator of [Snapdrop.me -- the easiest way to share files between devices](https://snapdrop.me)
